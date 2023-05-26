@@ -69,7 +69,7 @@ class Invoice {
 
 /*
 * Here we have taken out the responsibility of printing from Invoice class
-* Now it is the responsibility PrintUtil class to take care of it
+* Now it is the responsibility of PrintUtil class to take care of it
 * */
 class PrintUtil {
     private final Invoice invoice;
